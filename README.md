@@ -5,6 +5,7 @@ I have included a rudimentary interface to catch Ctrl-Button1Down and to launch 
 
 ## TODO
 - Auto-refresh after PDF file has changed
+- Continous scroll ?
 
 ## Tested on 
 - FreeBSD 10.2 with XFCE
