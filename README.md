@@ -5,6 +5,9 @@ I have included a rudimentary interface to catch Ctrl-Button1Down and to launch 
 
 ## TODO
 - Auto-refresh after PDF file has changed
-
 ## Tested on 
 - FreeBSD 10.2 with XFCE
+
+## Look also at
+
+https://github.com/paaguti/epdfview for a first integration with the epdfview keep alive efforts by Pablo Lezaeta Reyes https://github.com/jristz
