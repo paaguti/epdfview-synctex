@@ -9,6 +9,8 @@ I have included a rudimentary interface to catch Ctrl-Button1Down and to launch 
 
 ## Tested on 
 - FreeBSD 10.2 with XFCE
+- Lubuntu 14.04 with LXDE
+- Ubuntu 14.04 with GNOME3
 
 ## Look also at
 
